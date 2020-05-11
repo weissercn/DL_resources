@@ -30,6 +30,10 @@ A list of Deep Learning resources
 
 [Introductory book about interpretability](https://christophm.github.io/interpretable-ml-book/)
 
+## Visualizations
+
+[Fred Hohman developed Gamut, Summit, Chameleon](https://fredhohman.com/)
+
 ## Code
 
 [Papers with Code](https://paperswithcode.com/)
